@@ -1,5 +1,6 @@
 # Autonomous Process Design With Reinforcement Learning (RL)
-This document serves as a comprehensive guide for individuals who will continue or utilize this research, providing detailed explanations of the project's content, file architecture, and program implementation. For further details regarding the project files, please refer to the main repository: https://github.com/hijiku/AutoProcRL/tree/main
+This document serves as a comprehensive guide for individuals who will continue or utilize this research, providing detailed explanations of the project's content, file architecture, and program implementation.   
+For further details regarding the project files, please refer to the main repository: https://github.com/hijiku/AutoProcRL/tree/main
 # Overview
 * This project is fundamentally based on the RL framework with a masking mechanism as proposed by Reynoso et al.
 * The original system has been extended to include a broader variety of unit operations and features an enhanced reward setting.
